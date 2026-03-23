@@ -12,7 +12,7 @@ Sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas na UNISI
 
 Tenho experiência com análise de dados e tomada de decisão em tempo real no mercado financeiro, o que fortaleceu meu raciocínio lógico, identificação de padrões e resolução de problemas.
 
-Atualmente estou consolidando minha base com projetos práticos, principalmente APIs com Java, buscando uma oportunidade de estágio para evoluir e contribuir com o time.
+Atualmente estou consolidando minha base com projetos práticos, principalmente APIs com Java, buscando uma oportunidade de estágio para evoluir.
 
 ---
 

@@ -1,7 +1,7 @@
-<h1 align="center">Oi, eu sou a Júlia 👋</h1>
+<h1 align="center">Oi, eu sou a Júlia 🌱🐸</h1>
 
 <p align="center">
-  🌱 Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedora Back-end em formação 🐸✨
+  ✨ Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedora Back-end em formação ✨
 </p>
 
 ---

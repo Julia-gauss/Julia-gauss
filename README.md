@@ -20,20 +20,40 @@ Atualmente estou consolidando minha base com projetos práticos, principalmente 
 
 ### Back-end
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![POO](https://img.shields.io/badge/POO-000000?style=for-the-badge)
 ![API REST](https://img.shields.io/badge/API_REST-000000?style=for-the-badge)
-
-### Conceitos e arquitetura
-![POO](https://img.shields.io/badge/OOP-000000?style=for-the-badge)
+![Integração de sistemas](https://img.shields.io/badge/Integra%C3%A7%C3%A3o_de_sistemas-000000?style=for-the-badge)
+![Arquitetura de software](https://img.shields.io/badge/Arquitetura_de_software-000000?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-000000?style=for-the-badge)
+
+### Web
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Banco de dados
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### Ferramentas
+### Versionamento e ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Segurança
+![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-000000?style=for-the-badge)
+![Segurança da informação](https://img.shields.io/badge/Seguran%C3%A7a_da_informa%C3%A7%C3%A3o-000000?style=for-the-badge)
+![Proteção de dados](https://img.shields.io/badge/Prote%C3%A7%C3%A3o_de_dados-000000?style=for-the-badge)
+
+### UX e design (background)
+![Prototipação](https://img.shields.io/badge/Prototipa%C3%A7%C3%A3o-000000?style=for-the-badge)
+![Wireframes](https://img.shields.io/badge/Wireframes-000000?style=for-the-badge)
+![UX](https://img.shields.io/badge/UX-000000?style=for-the-badge)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+### Habilidades analíticas
+![Análise de dados](https://img.shields.io/badge/An%C3%A1lise_de_dados-000000?style=for-the-badge)
+![Raciocínio lógico](https://img.shields.io/badge/Racioc%C3%ADnio_l%C3%B3gico-000000?style=for-the-badge)
+![Gestão de risco](https://img.shields.io/badge/Gest%C3%A3o_de_risco-000000?style=for-the-badge)
 
 ---
 

@@ -6,15 +6,13 @@
 
 ---
 
-## Sobre mim
+## Sobre mim 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (3º semestre - UNISINOS), com foco em desenvolvimento back-end e construção de soluções baseadas em boas práticas de programação.
+Sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas na UNISINOS, com foco em desenvolvimento back-end. Trabalho com Java e POO, desenvolvimento e consumo de APIs REST, Git/GitHub e fundamentos de banco de dados (SQL).
 
-Tenho experiência com Java, Programação Orientada a Objetos, desenvolvimento e consumo de APIs REST, versionamento com Git e fundamentos de banco de dados. Também estudo design patterns e estruturação de sistemas.
+Tenho experiência com análise de dados e tomada de decisão em tempo real no mercado financeiro, o que fortaleceu meu raciocínio lógico, identificação de padrões e resolução de problemas.
 
-Além da área de tecnologia, atuo de forma independente no mercado financeiro, onde desenvolvi forte capacidade analítica, raciocínio lógico, identificação de padrões e tomada de decisão baseada em dados em tempo real 🐸.
-
-Atualmente, estou desenvolvendo projetos próprios para consolidar minha base técnica e evoluir como desenvolvedora ✨.
+Atualmente estou consolidando minha base com projetos práticos, principalmente APIs com Java, buscando uma oportunidade de estágio para evoluir e contribuir com o time.
 
 ---
 
